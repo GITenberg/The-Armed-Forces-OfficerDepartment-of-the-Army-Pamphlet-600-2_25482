@@ -1,0 +1,30 @@
+_repo: The-Armed-Forces-OfficerDepartment-of-the-Army-Pamphlet-600-2_25482
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25482-h/images/cover.jpg
+creator:
+  author:
+    agent_name: United States. Department of Defense
+    aliases:
+    - United States. Defense Department
+    - United States. Dept. of Defense
+    gutenberg_agent_id: '31368'
+    url: http://www.gutenberg.org/2009/agents/31368
+    wikipedia: http://en.wikipedia.org/wiki/United_States_Department_of_Defense
+description: ''
+gutenberg_issued: '2008-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Armed Forces -- Officers'' handbooks'
+- !lcc 'U'
+title: 'The Armed Forces Officer
+
+  Department of the Army Pamphlet 600-2'
+url: http://www.gutenberg.org/ebooks/25482
