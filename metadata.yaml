@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31368
     wikipedia: http://en.wikipedia.org/wiki/United_States_Department_of_Defense
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25482#The-Armed-Forces-OfficerDepartment-of-the-Army-Pamphlet-600-2
 gutenberg_issued: '2008-05-15'
 gutenberg_type: Text
 identifiers:
